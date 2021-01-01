@@ -1,1 +1,1 @@
-# bigdata-cookbook
+# bigdata trainning
